@@ -6,8 +6,8 @@ Introduzione al pensiero complesso, Edgar Morin
 - [1. L'intelligenza cieca](#1-lintelligenza-cieca)
 - [2. Tracciato e disegno](#2-tracciato-e-disegno)
 - [3. Il paradigma di complessità](#3-il-paradigma-di-complessità)
-- [4. La complessità e l'azione](#4-la-complessità-e-l-azione)
-- [5. La complessità e l'impresa](#5-la-complessità-e-l-impresa)
+- [4. La complessità e l'azione](#4-la-complessità-e-lazione)
+- [5. La complessità e l'impresa](#5-la-complessità-e-limpresa)
 - [6. Epistemologia della complessità](#6-epistemologia-della-complessità)
 
 # Prefazione 
