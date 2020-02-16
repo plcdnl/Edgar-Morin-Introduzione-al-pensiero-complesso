@@ -1,6 +1,11 @@
 Introduzione al pensiero complesso, Edgar Morin
 ===
-[TOC]
+- [Introduzione al pensiero complesso, Edgar Morin](#introduzione-al-pensiero-complesso--edgar-morin)
+- [Prefazione](#prefazione)
+- [1. L'intelligenza cieca](#1-l-intelligenza-cieca)
+- [2. Tracciato e disegno](#2-tracciato-e-disegno)
+- [3. Il paradigma di complessità](#3-il-paradigma-di-complessit-)
+- [4. La complessità e l'azione](#4-la-complessit--e-l-azione)
 
 # Prefazione 
 La conoscenza scientifica cerca di dissipare l'apparente complessità dei fenomeni così da poter rivelare l'ordine semplice al quale obbediscono, ma le modalità semplificanti di conoscenza mutano le realtà. È complesso ciò che non può essere ricondotto a un'idea semplice, e siccome la realtà è complessa, noi non dobbiamo semplificarla ma dialogare con essa. Bisogna comprendere che mentre il pensiero semplificante disintegra la complessità del reale, la complessità non vuole eliminare la semplicità ma vuole assimilare i modi semplificanti di pensare, rifiutando mutilazioni e riduzioni. Inoltre non si deve confondere complessità e completezza: il pensiero complesso aspira ad una conoscenza non riduttiva, ma è consapevole in partenza dell'impossibilità della conoscenza completa. 
