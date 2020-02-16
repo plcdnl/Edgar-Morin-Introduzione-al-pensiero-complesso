@@ -1,11 +1,14 @@
 Introduzione al pensiero complesso, Edgar Morin
 ===
+
 - [Introduzione al pensiero complesso, Edgar Morin](#introduzione-al-pensiero-complesso--edgar-morin)
 - [Prefazione](#prefazione)
 - [1. L'intelligenza cieca](#1-l-intelligenza-cieca)
 - [2. Tracciato e disegno](#2-tracciato-e-disegno)
 - [3. Il paradigma di complessità](#3-il-paradigma-di-complessit-)
 - [4. La complessità e l'azione](#4-la-complessit--e-l-azione)
+- [5. La complessità e l'impresa](#5-la-complessit--e-l-impresa)
+- [6. Epistemologia della complessità](#6-epistemologia-della-complessit-)
 
 # Prefazione 
 La conoscenza scientifica cerca di dissipare l'apparente complessità dei fenomeni così da poter rivelare l'ordine semplice al quale obbediscono, ma le modalità semplificanti di conoscenza mutano le realtà. È complesso ciò che non può essere ricondotto a un'idea semplice, e siccome la realtà è complessa, noi non dobbiamo semplificarla ma dialogare con essa. Bisogna comprendere che mentre il pensiero semplificante disintegra la complessità del reale, la complessità non vuole eliminare la semplicità ma vuole assimilare i modi semplificanti di pensare, rifiutando mutilazioni e riduzioni. Inoltre non si deve confondere complessità e completezza: il pensiero complesso aspira ad una conoscenza non riduttiva, ma è consapevole in partenza dell'impossibilità della conoscenza completa. 
@@ -72,3 +75,37 @@ Ad esempio ogni cellula del nostro organismo contiene la totalità dell'informaz
 <!-- fine lista -->
 
 # 4. La complessità e l'azione
+Talvolta si ha l'impressione che l'azione semplifichi, dal momento in cui si prende una decisione netta, ma l'azione è una scelta e contemporaneamente una scommessa. L'azione è una strategia, quest'ultima ipotizza un certo numero di scenari che potranno essre modificati durante il corso dell'azione. La strategia combatte contro il caso e allo stesso tempo cerca di utilizzarlo: ad esempio Napoleone utilizzò la foschia per camuffare i movimenti del suo esercito e cogliere di sorpresa l'esercito nemico degli imperiali. Dunque il caso non è soltanto un fattore negativo avverso alla strategia, ma anche un'opportunità da cogliere.
+
+Quando un individuo intraprende un'azione, questa inizia a sfuggire alle sue intenzioni, entra in un universo di interazioni finchè l'ambiente circostante se ne impadronisce. L'**azione può diventare contraria all'intenzione iniziale**, può rivevrsarsi contro noi stessi e ci costringe a tentare di correggerla. La strategia si contrappone al programma: all'interno di un ambiente stabileè opprtuno utilizzare dei programmi, dato che il programma non costringe ad essere vigili; se ci imbattiamo in un ingorgo inatteso allora occore decidere e attuare una strategia. 
+
+Una macchina si definisce elementare quando si conoscono tutti gli input e tutti gli output, dato che quando conosciamo tutto ciò che entra nella macchina, possiamo anticiparne il comportamento. **Gli esseri umani**, la società e l'impresa **non sono macchine elementari**, ma la vita sociale esige che noi ci comportiamo come macchine elementari. Naturalmente noi non agiamo come dei puri automi, perchè quando si verificano dei momenti di crisi e di decisione, la macchina diventa non elementare: agisce in un modo che non possiamo predire. 
+
+**La complessità** non è un modo per conoscere l'imprevisto, ma **ci rende prudenti**, non ci permette di addormentarci nell'apparente meccanicità e ovvietà dei determinismi. Il pensiero complesso non rifiuta la chiarezza e l'ordine, ma è consapevole che sono insufficienti e che non si può programmare la scoperta, la conoscenza e l'azione. Quindi il pensiero complesso non risolve i problemi ma contribuisce alla formazione di una strategia che possa risolverli.
+
+# 5. La complessità e l'impresa
+Prima tappa della complessità: le nostre conoscenze sono semplici e non ci aiutano a conoscere le proprieta dell'insieme. Un tutto e più della somma delle parti che lo costituiscono. 
+
+Seconda tappa: le qualità di un elemento non possono manifestarsi pienamente nell'insieme.  Quindi il tutto è meno della somma delle sue parti. 
+
+Terza tappa: il tutto è contemporaneamente più e meno della somma delle parti.
+
+Un'organizzazione come l'impresa si colloca in un mercato, produce oggetti o servizi che entrano nell'universo del consumo. Producendo cose e servizi, l'impresa, contemporaneamente, si auto-produce; quindi la complessità sta nel fatto che il produttore stesso è il proprio prodotto. Tale situazione porta a tre tipi di causalità:
+<!-- inizio lista -->
+* **Causalità lineare**: una certa causa produce certi effetti. Quindi con determinata materia si produce un determinato oggetto di consumo
+* **Causalità circolare e retroattiva**: l'effetto (incremento o diminuzione delle vendite) può retroagire per stimolare o far calare la produzione di oggetti e servizi nell'impresa.
+* **Causalità ricorsiva**: gli effetti e i prodotti sono necessari al processo che li genera. Quindi il produtto è il produttore di ciò che lo produce.
+<!-- fine lista -->
+L'impresa si auto-organizza e realizza la propria auto-produzione; contemporaneamente realizza un'**auto-eco-organizzazione** e un'auto-eco-produzione. Questo perchè l'impresa si trova in un ambiente esterno, che a sua volta è inserito in un sistema eco-organizzato o eco-sistema. Noi esseri umani conosciamo il mondo attraverso i messaggi che i nostri sensi comunicano al cervello; quindi il mondo è all'interno della nostra mente, la quale è all'interno del nostro mondo. In un'ottica semplificante diremmo che la parte è nel tutto; in un'ottica complessa diciamo che la parte è nel tutto, e che il tutto è all'interno della parte che è all'interno del tutto.
+
+L'universo è un mix di ordine, disordine e organizzazione: quindi dobbiamo **vivere e venire a patti col disordine**. L'ordine è tutto ciò che è ripetizione e costanza, il disordine è tutto ciò che è irregolarità e derivazione rispetto a una struttura data. In un universo di ordine puro, non ci sarebbe innovazione, creazione ed evoluzione, quindi non potrebbe esserci nessuna esistenza vivente. Allo stesso modo, nessuna esistenza sarebbe possibile nel puro disordine, poichè non ci sarebbe alcun elemento stabile su cui fondare un'organizzazione.
+
+La strategia si contrappone al programma. Un **programma** è una sequenza di azioni predeterminate che si ferma o fallisce se le circostanze esterne non sono favorevoli. Invece la strategia elabora uno o più scenari, quindi si prepara, se c'è qualcosa di nuovo o imprevisto, a incorporarlo e modificare la propria azione. Una strategia può essere attuata da un'organizzazione, solo se questa non è concepita per obbedire a una programmazione. Infatti un modello esclusivamente funzionale e razionale è nocivo e rigido rispetto alla strategia. Più un organizzazione è complessa, più disordine tollera. Questo le conferisce vitalità, dato che gli individui sono capaci di prendere iniziative per risolvere determinati problemi. Ma un'organizzazione che avesse solo libertà e pochissima organizzazione si disintegrerebbe.
+
+# 6. Epistemologia della complessità
+La complessità non è la risposta, ma è la sfida, la ricerca di una possibilità di pensiero che nasce dall'incertezza. La complessità non è solo l'unione del complesso e del semplice, ma è il cuore della relazione tra il semplice e il complesso, poichè una relazione crea sia antagonismo che complementarietà.
+
+Nonostante il suo ideale di semplificazione **la scienza è progredita** e di fatto è complessa.
+È complessa perchè essa presenta un antagonismo complementare tra il suo principio di rivalità, conflitto tra idee e teorie, e il suo principio umanistico, di accettazione della regola della verità e dell'argomentazione. La scienza si fonda contemporaneamente sul consenso e sul conflitto.
+
+Informazione e conoscenza sono profondamente diverse. Le **informazioni** non esistono in natura, ma siamo noi che le estraiamo da quest'ultima. Le informazioni esistono dal momento in cui gli esseri viventi comunicano tra loro; quindi prima della vita, l'informazione non esiste: tale conoscenza non conosce se stessa. Invece la **conoscenza** presuppone un rapporto di apertura e di chiusura tra il conoscente e il conosciuto. Per Morin la conoscenza presuppone una separazione dal mondo esterno, ma anche da noi stessi: l'ignoto non è soltanto il mondo esterno, siamo soprattutto noi stessi.
